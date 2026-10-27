@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# No space before or after the equal sign when assigning a value to a variable
 Person1="Lokesh"
 Person2="c"
 
